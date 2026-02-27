@@ -29,6 +29,7 @@ pip install -r requirements.txt
 ### 4. Configure Environment Variables
 
 Create a file named `.env` in the root directory and add:
+RAPIDAPI_KEY:YOUR_KEY
 BROWSERSTACK_USERNAME=your_browserstack_username
 BROWSERSTACK_ACCESS_KEY=your_browserstack_access_key
 
